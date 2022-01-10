@@ -7,4 +7,5 @@
 - [Chapter 3: This](https://github.com/minjamie/Reading_Books_Record/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/03%20This.MD)
 - [Chapter 4: 콜백함수](https://github.com/minjamie/Reading_Books_Record/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/04.%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.MD)
 - [Chapter 5: 클로저](https://github.com/minjamie/Reading_Books_Record/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/05.%20%ED%81%B4%EB%A1%9C%EC%A0%80.MD)
-- [Chapter 6: 프로토타입]()
+- [Chapter 6: 프로토타입](https://github.com/minjamie/Reading_Books_Record/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/06.%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.MD)
+- [Chapter 7: 클래스]()
