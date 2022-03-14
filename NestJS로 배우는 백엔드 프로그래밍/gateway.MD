@@ -20,3 +20,13 @@ $ npm i --save-dev @types/socket.io
 @@switch
 $ npm i --save @nestjs/websockets @nestjs/platform-socket.io
 ```
+
+#### Overview
+
+- 일반적으로 앱이 웹 응용 프로그램이 아니거나 수동으로 포트를 변경하지 않은 경우 각 게이트웨이는 HTTP 서버가 실행되는 것과 동일한 포트를 수신
+- @WebSocketGateway(80)데코레이터에 인수를 전달하여 이 동작을 변경, 여기서 80은 선택된 포트 번호
+- 또한 다음 구성으로 이 게이트웨이에서 사용하는 namespace를 설정 가능
+
+```js
+@WebSocketGateway(80, { namespace: 'events' })
+```
