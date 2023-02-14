@@ -1,0 +1,22 @@
+function sum(arr){
+  if(arr.length === 0) return 0;
+  else if(arr.length === 1){
+    return arr[0]
+  } else {
+    return arr[0] + sum(arr.splice(1, arr.length-1))
+  }
+}
+sum([2,4,6, 3,4])
+
+
+function quickSort(arr){
+    if(arr.length <2) return arr
+    else {
+      const stEl = arr[0]
+      const spliceArr= arr.splice(1, arr.length-1)
+      const biggerArr = spliceArr.filter(el=> el > stEl)
+      const smallerArr= spliceArr.filter(el => el < stEl)
+     return quickSort(smallerArr).concat(stEl).concat(quickSort(biggerArr))
+    }
+}
+quickSort([2,4,6, 3,5,1,7])
