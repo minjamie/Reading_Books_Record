@@ -1,0 +1,17 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check-hand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "node": "^19.8.1",
+    "wish": "^1.0.1"
+  }
+  
+}
