@@ -6,9 +6,14 @@
 
 - 딥다이브 모던 자바스크립트 [1회독]
 - Node.js 교과서 [1회독]
-- [코어 자바스크립트](https://github.com/minjamie/Reading_Books_Record/tree/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)[2회독]
+- [코어 자바스크립트](https://github.com/minjamie/Reading_Books_Record/tree/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)[3회독]
 - 읽기 좋은 코드가 좋은 코드다[1회독]
+- 구글 엔지니어는 이렇게 일한다
 ## 💻 스터디를 진행하고 있는 책 목록
+- 이펙티브 자바
+- 자바스크립트 패턴과 테스트
+- 누구나 자료구조와 알고리즘
+- 자바스크립트 리팩토링
 
 #### 책을 읽고 정리합니다. 현재 읽고 있는 책 목록입니다.
 
